@@ -1,4 +1,6 @@
 .venv/
+.chronos2/
+.moirai/
 .claude/
 shrinked_charts_viral50.csv
 shrinked_charts.csv
